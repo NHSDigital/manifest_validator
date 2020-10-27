@@ -1,0 +1,16 @@
+[api]
+id = "123"
+name = "personal-demographics"
+short-name = "pds"
+human-readable-name = "Personal Demographics Service"
+extra-key = "test"
+
+[specs.fhir-r4]
+id = "eef32850-52ae-46da-9dbd-d9f3df818846"
+title = "Personal Demographics Service FHIR API"
+path = "dist/personal-demographics-service.yaml"
+
+[specs.fhir-stu3]
+id = "eef32850-52ae-46da-9dbd-d9f3df818846"
+title = "Personal Demographics Service FHIR API (STU3)"
+path = "dist/personal-demographics-service-stu3.yaml"

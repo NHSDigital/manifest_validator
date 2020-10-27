@@ -1,0 +1,9 @@
+\#*
+.#*
+
+dist/
+*.egg-info/
+
+*.py[cd]
+__pycache__
+**/__pycache__
